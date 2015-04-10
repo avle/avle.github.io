@@ -1,2 +1,3 @@
 # avle.github.io
-my test page
+My first page.
+To be refined for display and CSS and JavaScript testing.
