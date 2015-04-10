@@ -1,2 +1,4 @@
 var myHeading = document.querySelector('h1');
-myHeading.innerHTML = 'JS added!';
+var myButton = document.querySelector('button');
+
+myHeading.innerHTML = 'Hello World!';
