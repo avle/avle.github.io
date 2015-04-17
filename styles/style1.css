@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  width: 800px;
+}
+
+
+p {
+  color: lightgray;
+  text-align: center;
+}
+
+h1 {
+  color: lightgray;
+  text-align: center;
+}
+
+pre {
+  color: white;
+  padding: 40px;
+  
+}
