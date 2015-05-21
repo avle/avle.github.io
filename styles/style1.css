@@ -3,11 +3,18 @@ body {
   width: 800px;
 }
 
-
+/*
 p {
   color: lightgray;
   text-align: center;
 }
+*/
+
+p {
+  font-family: "COURIER NEW";
+  color: BLACK;
+}
+
 
 h1 {
   color: lightgray;
